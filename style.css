@@ -1,0 +1,300 @@
+.COMPUTERLOGO-Jan
+{
+  font-family : Georgia;
+  font-weight : bold;
+  font-size : 56px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+}
+.COMPUTERLOGO-2001
+{
+  font-family : Bahnschrift;
+  font-weight : bold;
+  font-size : 18px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+}
+.COMPUTERMAIN-Menubartext
+{
+  font-family : Panton Narrow;
+  font-size : 37px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERHOMEPAGE-Text
+{
+  font-family : Panton Narrow;
+  font-size : 102px;
+  line-height : 79.34px;
+}
+.COMPUTERMAIN-Pageheader
+{
+  font-family : Panton Narrow;
+  font-size : 46px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERTIMELINE-Yearheader
+{
+  font-family : Panton Narrow;
+  font-size : 37px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERTIMELINE-Text
+{
+  font-family : Quicksand;
+  font-size : 18px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERABTME-Text
+{
+  font-family : Quicksand;
+  font-size : 32px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERCONTACT-Text
+{
+  font-family : Quicksand;
+  font-size : 32px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERCONTACT-Socialmediatext
+{
+  font-family : Quicksand;
+  font-size : 23px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERCONTACT-Formtext
+{
+  font-family : Quicksand;
+  font-size : 23px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERCONTACT-Formcancelbtn
+{
+  font-family : Quicksand;
+  font-size : 23px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.COMPUTERCONTACT-Formsubmitbtn
+{
+  font-family : Quicksand;
+  font-size : 23px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETLOGO-Jan
+{
+  font-family : Georgia;
+  font-weight : bold;
+  font-size : 47px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+}
+.TABLETLOGO-2001
+{
+  font-family : Bahnschrift;
+  font-weight : bold;
+  font-size : 15px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+}
+.TABLETHOMEPAGE-Text
+{
+  font-family : Panton Narrow;
+  font-size : 102px;
+  line-height : 79.34px;
+}
+.TABLETMAIN-Pageheader
+{
+  font-family : Panton Narrow;
+  font-size : 45px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETABTME-Text
+{
+  font-family : Quicksand;
+  font-size : 25px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETTIMELINE-YearHeader
+{
+  font-family : Panton Narrow;
+  font-size : 35px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETTIMELINE-Text
+{
+  font-family : Quicksand;
+  font-size : 17px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETCONTACT-Text
+{
+  font-family : Quicksand;
+  font-size : 32px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETCONTACT-Socialmediatext
+{
+  font-family : Quicksand;
+  font-size : 20px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETCONTACT-Formtext
+{
+  font-family : Quicksand;
+  font-size : 17px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETCONTACT-Formcancelbtn
+{
+  font-family : Quicksand;
+  font-size : 17px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.TABLETCONTACT-Formsubmitbtn
+{
+  font-family : Quicksand;
+  font-size : 17px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONELOGO-Jan
+{
+  font-family : Georgia;
+  font-weight : bold;
+  font-size : 47px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+}
+.PHONELOGO-2001
+{
+  font-family : Bahnschrift;
+  font-weight : bold;
+  font-size : 15px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+}
+.PHONEHOMEPAGE-Text
+{
+  font-family : Panton Narrow;
+  font-size : 102px;
+  line-height : 79.34px;
+}
+.PHONEMAIN-Pageheader
+{
+  font-family : Panton Narrow;
+  font-size : 45px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONEABTME-Text
+{
+  font-family : Quicksand;
+  font-size : 29px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONETIMELINE-YearHeader
+{
+  font-family : Panton Narrow;
+  font-size : 37px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONETIMELINE-Text
+{
+  font-family : Quicksand;
+  font-size : 18px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONECONTACT-Text
+{
+  font-family : Quicksand;
+  font-size : 32px;
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONECONTACT-Socialmediatext
+{
+  font-family : Quicksand;
+  font-size : 20px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONECONTACT-Formtext
+{
+  font-family : Quicksand;
+  font-size : 23px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONECONTACT-Formcancelbtn
+{
+  font-family : Quicksand;
+  font-size : 23px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
+.PHONECONTACT-Formsubmitbtn
+{
+  font-family : Quicksand;
+  font-size : 23px;
+  color : #122431;
+  color : rgb(18, 36, 49);
+  text-outline : #122431;
+  text-outline : rgb(18, 36, 49);
+}
